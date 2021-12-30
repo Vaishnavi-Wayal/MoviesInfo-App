@@ -1,0 +1,10 @@
+.body{
+    background-image:linear-gradient(transparent, rgb(110 255 0), white, rgba(0,0,0,0.3)), url('moviesbk.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: image();
+    font-size: larger;
+    text-align: center;
+    font-weight: bolder;
+}
